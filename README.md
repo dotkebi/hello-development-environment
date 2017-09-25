@@ -18,7 +18,7 @@ hello, development environment!
 
 * [visual Studio Code](https://code.visualstudio.com/download)
 * [atom.io](https://atom.io)
-* [braket](http://brackets.io)
+* [brakets.io](http://brackets.io)
 
 # build tool
 
