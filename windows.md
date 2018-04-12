@@ -11,36 +11,3 @@
 * [WinSCP](https://winscp.net/eng/download.php)
 
 # [cygwin](https://cygwin.com/setup-x86_64.exe)
-
-
-```
-
-# IDE
-
-* [eclipse](https://www.eclipse.org/downloads/eclipse-packages/)
-* [netbeans](https://netbeans.org/downloads/)
-* [intelliJ](https://www.jetbrains.com/idea/download)
-
-* [visual Studio](https://www.visualstudio.com/ko/downloads/)
-
-# editor
-
-* [visual Studio Code](https://code.visualstudio.com/download)
-* [atom.io](https://atom.io)
-* [brakets.io](http://brackets.io)
-
-# build tool
-
-* [maven](https://maven.apache.org/download.cgi)
-* [gradle](https://gradle.org/releases/)
-
-# was
-
-* [tomcat](https://tomcat.apache.org/download-80.cgi)
-
-
-# db tool
-
-* [tadpale](https://github.com/hangum/TadpoleForDBTools/)
-* [workbench](https://dev.mysql.com/downloads/workbench/)
-```
